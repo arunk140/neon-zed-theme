@@ -1,0 +1,7 @@
+id = "neon-cyberpunk"
+name = "Neon Cyberpunk"
+description = "A high-contrast, neon-infused cyberpunk theme that transforms your editor into a futuristic megalopolis."
+version = "0.0.1"
+schema_version = 1
+authors = ["Arun <arunk140@gmail.com>"]
+repository = "https://github.com/arunk140/neon-zed-theme"
